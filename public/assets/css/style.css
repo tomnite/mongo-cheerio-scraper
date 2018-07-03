@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 /* NAVBAR */
@@ -15,7 +15,7 @@
 }
 
 .navbar-brand {
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 2.0rem;
     padding: 10px;
 }
@@ -53,7 +53,7 @@
 
 .display-4 {
     color: #fff;
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Merriweather Sans', sans-serif;
     text-shadow:
     -1px -1px 0 #000,  
     1px -1px 0 #000,
@@ -68,7 +68,7 @@
 
 .card-header {
     background-color: #a8b89e;
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .mx-auto {
@@ -86,7 +86,7 @@
 
 /* MODAL */
 .modal-title {
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .modal-header {
@@ -94,10 +94,10 @@
 }
 
 h5 {
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 label {
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Merriweather Sans', sans-serif;
 
 }
