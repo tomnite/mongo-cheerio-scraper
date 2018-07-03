@@ -39,7 +39,6 @@ $(".add-note").on("click", function () {
     })
 })
 
-
 $(".save-note").on("click", function () {
     var thisId = $(this).attr("data-id");
     var noteContent = $("#noteArea" + thisId).val();

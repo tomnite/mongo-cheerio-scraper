@@ -4,7 +4,6 @@
     font-family: 'Merriweather Sans', sans-serif;
 }
 
-/* NAVBAR */
 .navbar {
     background-color: #a8b89e;
     height: 75px;
@@ -33,7 +32,6 @@
     margin: 15px;
 }
 
-/* JUMBOTRON */
 .jumbotron {
     background: url(../images/tech.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -61,7 +59,6 @@
     1px 1px 0 #000;
 }
 
-/* CARDS */
 .card {
     margin: 20px;
 }
@@ -84,7 +81,6 @@
     display: block;
 }
 
-/* MODAL */
 .modal-title {
     font-family: 'Merriweather Sans', sans-serif;
 }

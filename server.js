@@ -1,18 +1,14 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const logger = require("morgan");
-const mongoose = require("mongoose");
-const exphbs = require("express-handlebars");
-const method = require("method-override");
-
-const axios = require("axios");
-const cheerio = require("cheerio");
-
-const db = require("./models");
-
-const PORT = process.env.PORT || 3000;
-
-const app = express();
+const express = require("express"),
+    bodyParser = require("body-parser"),
+    logger = require("morgan"),
+    mongoose = require("mongoose"),
+    exphbs = require("express-handlebars"),
+    method = require("method-override"),
+    axios = require("axios"),
+    cheerio = require("cheerio"),
+    db = require("./models"),
+    PORT = process.env.PORT || 3000,
+    app = express();
 
 
 app.use(logger("dev"));
